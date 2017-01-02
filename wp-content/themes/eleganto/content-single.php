@@ -20,6 +20,18 @@
 						?>                            
 					</header>                                                                                      
 					<div class="entry-content">
+						<div>
+							<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- freesocks -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4401241764416248"
+     data-ad-slot="3256104412"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+						</div>
 						<?php the_content(); ?>
 					</div>   
 					<div id="custom-box"></div>                         
